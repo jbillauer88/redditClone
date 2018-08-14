@@ -35,6 +35,8 @@ gem 'jbuilder', '~> 2.5'
 
 # User added rubygems
 gem 'devise', '~> 4.2'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'jquery-rails'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
